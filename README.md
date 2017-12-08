@@ -1,0 +1,2 @@
+# Minna
+Tiedonsaantipalveluiden julkaisutuotannon toiminnanohjausjärjestelmä
